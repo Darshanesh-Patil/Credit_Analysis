@@ -21,5 +21,4 @@ The primary objectives of this project are as follows:
 - To improve the overall lending experience for borrowers.
 
 # PowerBI Dashboard
-
-
+![alt text](https://github.com/Darshanesh-Patil/Credit_Analysis/blob/de87706a282da66954b3124eccfe994bf7b6d844/power%20bi%20file/Credit%20Analysis%20PowerBI%20Dashboard.jpg?raw=true)
