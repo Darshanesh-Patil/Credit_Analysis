@@ -5,11 +5,10 @@ It leverages a combination of technologies, including PySpark, SQL, and PowerBI,
 
 # Scope:
 The scope of this project encompasses the following key areas:
-- Data Preprocessing and Analysis: Utilizing PySpark to preprocess and analyze large datasets containing applicant information, financial data, and credit-related factors.
-- Data Storage: Exporting processed data into an SQL database to ensure data accuracy, consistency, and easy retrieval.
+- Data Preprocessing: Utilizing PySpark to preprocess large datasets containing applicant information, financial data, and credit-related factors.
+- Data Analysis: Utilized SQL-like Hive queries to perform advanced data analysis and gain insights.
 - Visualization and Reporting: Using PowerBI to create interactive dashboards that provide real-time insights into creditworthiness assessment and loan approval trends.
 - Decision Support: Enabling more informed decision-making by presenting relevant data and trends to lending professionals.
-- Efficiency Improvement: Reducing loan approval times and improving the overall efficiency of the credit assessment process.
 
 # Objectives:
 The primary objectives of this project are as follows:
